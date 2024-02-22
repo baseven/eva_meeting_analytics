@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+moviepy = "*"
+openai-whisper = "*"
 
 [dev-packages]
 
